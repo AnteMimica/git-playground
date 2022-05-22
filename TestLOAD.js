@@ -138,19 +138,6 @@ export default function main() {
         origin: 'https://studio.apollographql.com',
 
 
-        /*safkakdfdsaokfsfskfdskfdssfsd*/
-        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
-
-
-        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
-
-
-        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
-
-        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
-
-        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
-
 
 
 
@@ -168,6 +155,12 @@ export default function main() {
     }
   )
 
-  // Automatically added sleep
+  Ante Mimica komentar 123455555555555  Ante Mimica komentar 123455555555555
+
+  Ante Mimica komentar 123455555555555  Ante Mimica komentar 123455555555555
+
+  Ante Mimica komentar 123455555555555  Ante Mimica komentar 123455555555555
+
+  Ante Mimica komentar 123455555555555  Ante Mimica komentar 123455555555555
   sleep(1)
 }
