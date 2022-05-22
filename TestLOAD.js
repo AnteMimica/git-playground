@@ -14,6 +14,8 @@ export default function main() {
     {
       headers: {
         accept: '*/*',
+        /*safkakdfdsaokfsfskfdskfdssfsd*/
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
         'accept-encoding': 'gzip, deflate, br',
         'accept-language': 'en-US,en;q=0.9',
         authorization:
@@ -118,6 +120,24 @@ export default function main() {
         'accept-encoding': 'gzip, deflate, br',
         'accept-language': 'en-US,en;q=0.9',
         origin: 'https://studio.apollographql.com',
+
+
+        /*safkakdfdsaokfsfskfdskfdssfsd*/
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
+
+
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
+
+
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
+
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
+
+        /*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*//*safkakdfdsaokfsfskfdskfdssfsd*/
+
+
+
+
         referer:
           'https://studio.apollographql.com/graph/M2M-Federated-Microservice-Gateway/explorer?variant=staging-stitched',
         'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
