@@ -159,7 +159,7 @@ export default function main() {
 
       Jos novije promjene123
 
-  boze transporter komentar 123455555555555  Ante Mimica komentar 123455555555555
+  ivan vidosevic komentar 123455555555555  Ante Mimica komentar 123455555555555
 
   Ante Mimica komentar 123455555555555  Ante Mimica komentar 123455555555555
 
