@@ -36,6 +36,13 @@ export default function main() {
     }
   )
 
+  /*ovo je testni dio za gitttttt*/
+  /*ovo je testni dio za gitttttt*/
+  /*ovo je testni dio za gitttttt*/
+  /*ovo je testni dio za gitttttt*/
+  /*ovo je testni dio za gitttttt*/
+
+
   response = http.post(
     'https://graphql.api.apollographql.com/api/graphql?operationName=TrackMutation',
     '{"operationName":"TrackMutation","variables":{"event":"RUN_EXPLORER_OPERATION","graphID":"M2M-Federated-Microservice-Gateway","graphVariant":"staging-stitched"},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"984e87e0382e2c063386221c32c574cc2d746f1b1d75af04bd757360eae193e0"}}}',
@@ -63,6 +70,10 @@ export default function main() {
           'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36',
         'x-instance-id': '8l9ydg',
       },
+      /*ovo je testni dio za gitttttt*/
+      /*ovo je testni dio za gitttttt*//*ovo je testni dio za gitttttt*//*ovo je testni dio za gitttttt*//*ovo je testni dio za gitttttt*/
+
+
     }
   )
 
@@ -109,6 +120,11 @@ export default function main() {
           'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36',
       },
     }
+    /*ovo je testni dio za gitttttt*/
+      /*ovo je testni dio za gitttttt*/
+      /*ovo je testni dio za gitttttt*//*ovo je testni dio za gitttttt*//*ovo je testni dio za gitttttt*/
+      
+
   )
 
   response = http.post(
